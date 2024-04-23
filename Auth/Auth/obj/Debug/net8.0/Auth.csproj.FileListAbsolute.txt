@@ -1,0 +1,956 @@
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\appsettings.json
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\Auth.exe
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\Auth.deps.json
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\Auth.runtimeconfig.json
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\Auth.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\Auth.pdb
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\Humanizer.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\obj\Debug\net8.0\Auth.csproj.AssemblyReference.cache
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\obj\Debug\net8.0\Auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\obj\Debug\net8.0\Auth.AssemblyInfoInputs.cache
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\obj\Debug\net8.0\Auth.AssemblyInfo.cs
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\obj\Debug\net8.0\Auth.csproj.CoreCompileInputs.cache
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\obj\Debug\net8.0\Auth.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\obj\Debug\net8.0\Auth.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\obj\Debug\net8.0\staticwebassets\msbuild.Auth.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\obj\Debug\net8.0\staticwebassets\msbuild.build.Auth.props
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Auth.props
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Auth.props
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\obj\Debug\net8.0\scopedcss\bundle\Auth.styles.css
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\obj\Debug\net8.0\Auth.csproj.CopyComplete
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\obj\Debug\net8.0\Auth.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\obj\Debug\net8.0\refint\Auth.dll
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\obj\Debug\net8.0\Auth.pdb
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\obj\Debug\net8.0\Auth.genruntimeconfig.cache
+C:\Users\FarkasZ\Desktop\AuthApi\Auth\Auth\obj\Debug\net8.0\ref\Auth.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\appsettings.Development.json
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\appsettings.json
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\Auth.exe
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\Auth.deps.json
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\Auth.runtimeconfig.json
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\Auth.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\Auth.pdb
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\Humanizer.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\MySqlConnector.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\System.CodeDom.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Auth\Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Auth\Auth\obj\Debug\net8.0\Auth.csproj.AssemblyReference.cache
+D:\Desktop\Auth\Auth\obj\Debug\net8.0\Auth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Auth\Auth\obj\Debug\net8.0\Auth.AssemblyInfoInputs.cache
+D:\Desktop\Auth\Auth\obj\Debug\net8.0\Auth.AssemblyInfo.cs
+D:\Desktop\Auth\Auth\obj\Debug\net8.0\Auth.csproj.CoreCompileInputs.cache
+D:\Desktop\Auth\Auth\obj\Debug\net8.0\Auth.MvcApplicationPartsAssemblyInfo.cs
+D:\Desktop\Auth\Auth\obj\Debug\net8.0\Auth.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\Auth\Auth\obj\Debug\net8.0\staticwebassets.build.json
+D:\Desktop\Auth\Auth\obj\Debug\net8.0\staticwebassets.development.json
+D:\Desktop\Auth\Auth\obj\Debug\net8.0\staticwebassets\msbuild.Auth.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Desktop\Auth\Auth\obj\Debug\net8.0\staticwebassets\msbuild.build.Auth.props
+D:\Desktop\Auth\Auth\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Auth.props
+D:\Desktop\Auth\Auth\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Auth.props
+D:\Desktop\Auth\Auth\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Desktop\Auth\Auth\obj\Debug\net8.0\scopedcss\bundle\Auth.styles.css
+D:\Desktop\Auth\Auth\obj\Debug\net8.0\Auth.csproj.CopyComplete
+D:\Desktop\Auth\Auth\obj\Debug\net8.0\Auth.dll
+D:\Desktop\Auth\Auth\obj\Debug\net8.0\refint\Auth.dll
+D:\Desktop\Auth\Auth\obj\Debug\net8.0\Auth.pdb
+D:\Desktop\Auth\Auth\obj\Debug\net8.0\Auth.genruntimeconfig.cache
+D:\Desktop\Auth\Auth\obj\Debug\net8.0\ref\Auth.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\appsettings.Development.json
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\appsettings.json
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\Auth.exe
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\Auth.deps.json
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\Auth.runtimeconfig.json
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\Auth.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\Auth.pdb
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\Humanizer.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\MySqlConnector.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\System.CodeDom.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\obj\Debug\net8.0\Auth.csproj.AssemblyReference.cache
+D:\Desktop\Új mappa (2)\Auth\Auth\obj\Debug\net8.0\Auth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Új mappa (2)\Auth\Auth\obj\Debug\net8.0\Auth.AssemblyInfoInputs.cache
+D:\Desktop\Új mappa (2)\Auth\Auth\obj\Debug\net8.0\Auth.AssemblyInfo.cs
+D:\Desktop\Új mappa (2)\Auth\Auth\obj\Debug\net8.0\Auth.csproj.CoreCompileInputs.cache
+D:\Desktop\Új mappa (2)\Auth\Auth\obj\Debug\net8.0\Auth.MvcApplicationPartsAssemblyInfo.cs
+D:\Desktop\Új mappa (2)\Auth\Auth\obj\Debug\net8.0\Auth.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\Új mappa (2)\Auth\Auth\obj\Debug\net8.0\staticwebassets.build.json
+D:\Desktop\Új mappa (2)\Auth\Auth\obj\Debug\net8.0\staticwebassets.development.json
+D:\Desktop\Új mappa (2)\Auth\Auth\obj\Debug\net8.0\staticwebassets\msbuild.Auth.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Desktop\Új mappa (2)\Auth\Auth\obj\Debug\net8.0\staticwebassets\msbuild.build.Auth.props
+D:\Desktop\Új mappa (2)\Auth\Auth\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Auth.props
+D:\Desktop\Új mappa (2)\Auth\Auth\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Auth.props
+D:\Desktop\Új mappa (2)\Auth\Auth\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Desktop\Új mappa (2)\Auth\Auth\obj\Debug\net8.0\scopedcss\bundle\Auth.styles.css
+D:\Desktop\Új mappa (2)\Auth\Auth\obj\Debug\net8.0\Auth.csproj.CopyComplete
+D:\Desktop\Új mappa (2)\Auth\Auth\obj\Debug\net8.0\Auth.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\obj\Debug\net8.0\refint\Auth.dll
+D:\Desktop\Új mappa (2)\Auth\Auth\obj\Debug\net8.0\Auth.pdb
+D:\Desktop\Új mappa (2)\Auth\Auth\obj\Debug\net8.0\Auth.genruntimeconfig.cache
+D:\Desktop\Új mappa (2)\Auth\Auth\obj\Debug\net8.0\ref\Auth.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\appsettings.json
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\Auth.exe
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\Auth.deps.json
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\Auth.runtimeconfig.json
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\Auth.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\Auth.pdb
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\Humanizer.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\obj\Debug\net8.0\Auth.csproj.AssemblyReference.cache
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\obj\Debug\net8.0\Auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\obj\Debug\net8.0\Auth.AssemblyInfoInputs.cache
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\obj\Debug\net8.0\Auth.AssemblyInfo.cs
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\obj\Debug\net8.0\Auth.csproj.CoreCompileInputs.cache
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\obj\Debug\net8.0\Auth.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\obj\Debug\net8.0\Auth.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\obj\Debug\net8.0\staticwebassets\msbuild.Auth.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\obj\Debug\net8.0\staticwebassets\msbuild.build.Auth.props
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Auth.props
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Auth.props
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\obj\Debug\net8.0\scopedcss\bundle\Auth.styles.css
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\obj\Debug\net8.0\Auth.csproj.CopyComplete
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\obj\Debug\net8.0\Auth.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\obj\Debug\net8.0\refint\Auth.dll
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\obj\Debug\net8.0\Auth.pdb
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\obj\Debug\net8.0\Auth.genruntimeconfig.cache
+C:\Users\FarkasZ\Desktop\Auth10A\Auth\Auth\obj\Debug\net8.0\ref\Auth.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\appsettings.Development.json
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\appsettings.json
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\Auth.exe
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\Auth.deps.json
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\Auth.runtimeconfig.json
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\Auth.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\Auth.pdb
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\Humanizer.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\MySqlConnector.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\System.CodeDom.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\közösprojekt\Auth\Auth\Auth\obj\Debug\net8.0\Auth.csproj.AssemblyReference.cache
+D:\közösprojekt\Auth\Auth\Auth\obj\Debug\net8.0\Auth.GeneratedMSBuildEditorConfig.editorconfig
+D:\közösprojekt\Auth\Auth\Auth\obj\Debug\net8.0\Auth.AssemblyInfoInputs.cache
+D:\közösprojekt\Auth\Auth\Auth\obj\Debug\net8.0\Auth.AssemblyInfo.cs
+D:\közösprojekt\Auth\Auth\Auth\obj\Debug\net8.0\Auth.csproj.CoreCompileInputs.cache
+D:\közösprojekt\Auth\Auth\Auth\obj\Debug\net8.0\Auth.MvcApplicationPartsAssemblyInfo.cs
+D:\közösprojekt\Auth\Auth\Auth\obj\Debug\net8.0\Auth.MvcApplicationPartsAssemblyInfo.cache
+D:\közösprojekt\Auth\Auth\Auth\obj\Debug\net8.0\staticwebassets.build.json
+D:\közösprojekt\Auth\Auth\Auth\obj\Debug\net8.0\staticwebassets.development.json
+D:\közösprojekt\Auth\Auth\Auth\obj\Debug\net8.0\staticwebassets\msbuild.Auth.Microsoft.AspNetCore.StaticWebAssets.props
+D:\közösprojekt\Auth\Auth\Auth\obj\Debug\net8.0\staticwebassets\msbuild.build.Auth.props
+D:\közösprojekt\Auth\Auth\Auth\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Auth.props
+D:\közösprojekt\Auth\Auth\Auth\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Auth.props
+D:\közösprojekt\Auth\Auth\Auth\obj\Debug\net8.0\staticwebassets.pack.json
+D:\közösprojekt\Auth\Auth\Auth\obj\Debug\net8.0\scopedcss\bundle\Auth.styles.css
+D:\közösprojekt\Auth\Auth\Auth\obj\Debug\net8.0\Auth.csproj.Up2Date
+D:\közösprojekt\Auth\Auth\Auth\obj\Debug\net8.0\Auth.dll
+D:\közösprojekt\Auth\Auth\Auth\obj\Debug\net8.0\refint\Auth.dll
+D:\közösprojekt\Auth\Auth\Auth\obj\Debug\net8.0\Auth.pdb
+D:\közösprojekt\Auth\Auth\Auth\obj\Debug\net8.0\Auth.genruntimeconfig.cache
+D:\közösprojekt\Auth\Auth\Auth\obj\Debug\net8.0\ref\Auth.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\appsettings.json
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Auth.exe
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Auth.deps.json
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Auth.runtimeconfig.json
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Auth.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Auth.pdb
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Humanizer.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\Auth.csproj.AssemblyReference.cache
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\Auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\Auth.AssemblyInfoInputs.cache
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\Auth.AssemblyInfo.cs
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\Auth.csproj.CoreCompileInputs.cache
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\Auth.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\Auth.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\staticwebassets\msbuild.Auth.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\staticwebassets\msbuild.build.Auth.props
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Auth.props
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Auth.props
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\scopedcss\bundle\Auth.styles.css
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\Auth.csproj.Up2Date
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\Auth.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\refint\Auth.dll
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\Auth.pdb
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\Auth.genruntimeconfig.cache
+C:\Users\albeczma\Desktop\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\ref\Auth.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\appsettings.Development.json
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\appsettings.json
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Auth.exe
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Auth.deps.json
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Auth.runtimeconfig.json
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Auth.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Auth.pdb
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Humanizer.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\System.Web.Http.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Microsoft.OpenApi.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Mono.TextTemplating.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\MySqlConnector.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Newtonsoft.Json.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\System.CodeDom.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\System.Composition.Convention.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\System.Composition.Hosting.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\System.Composition.Runtime.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\System.Composition.TypedParts.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\Auth.csproj.AssemblyReference.cache
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\Auth.GeneratedMSBuildEditorConfig.editorconfig
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\Auth.AssemblyInfoInputs.cache
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\Auth.AssemblyInfo.cs
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\Auth.csproj.CoreCompileInputs.cache
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\Auth.MvcApplicationPartsAssemblyInfo.cs
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\Auth.MvcApplicationPartsAssemblyInfo.cache
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\staticwebassets.build.json
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\staticwebassets.development.json
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\staticwebassets\msbuild.Auth.Microsoft.AspNetCore.StaticWebAssets.props
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\staticwebassets\msbuild.build.Auth.props
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Auth.props
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Auth.props
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\staticwebassets.pack.json
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\scopedcss\bundle\Auth.styles.css
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\Auth.csproj.Up2Date
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\Auth.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\refint\Auth.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\Auth.pdb
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\Auth.genruntimeconfig.cache
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\obj\Debug\net8.0\ref\Auth.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\System.Web.Cors.dll
+I:\közösprojekt\BabaNaplo\Auth\Auth\Auth\bin\Debug\net8.0\System.Web.Http.Cors.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\appsettings.Development.json
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\appsettings.json
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Auth.exe
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Auth.deps.json
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Auth.runtimeconfig.json
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Auth.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Auth.pdb
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Humanizer.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\System.Web.Cors.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\System.Web.Http.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\System.Web.Http.Cors.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Microsoft.OpenApi.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Mono.TextTemplating.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\MySqlConnector.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Newtonsoft.Json.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\System.CodeDom.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\System.Composition.Convention.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\System.Composition.Hosting.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\System.Composition.Runtime.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\System.Composition.TypedParts.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\közösprojekt\TEST\Auth\Auth\obj\Debug\net8.0\Auth.csproj.AssemblyReference.cache
+I:\közösprojekt\TEST\Auth\Auth\obj\Debug\net8.0\Auth.GeneratedMSBuildEditorConfig.editorconfig
+I:\közösprojekt\TEST\Auth\Auth\obj\Debug\net8.0\Auth.AssemblyInfoInputs.cache
+I:\közösprojekt\TEST\Auth\Auth\obj\Debug\net8.0\Auth.AssemblyInfo.cs
+I:\közösprojekt\TEST\Auth\Auth\obj\Debug\net8.0\Auth.csproj.CoreCompileInputs.cache
+I:\közösprojekt\TEST\Auth\Auth\obj\Debug\net8.0\Auth.MvcApplicationPartsAssemblyInfo.cs
+I:\közösprojekt\TEST\Auth\Auth\obj\Debug\net8.0\Auth.MvcApplicationPartsAssemblyInfo.cache
+I:\közösprojekt\TEST\Auth\Auth\obj\Debug\net8.0\staticwebassets.build.json
+I:\közösprojekt\TEST\Auth\Auth\obj\Debug\net8.0\staticwebassets.development.json
+I:\közösprojekt\TEST\Auth\Auth\obj\Debug\net8.0\staticwebassets\msbuild.Auth.Microsoft.AspNetCore.StaticWebAssets.props
+I:\közösprojekt\TEST\Auth\Auth\obj\Debug\net8.0\staticwebassets\msbuild.build.Auth.props
+I:\közösprojekt\TEST\Auth\Auth\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Auth.props
+I:\közösprojekt\TEST\Auth\Auth\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Auth.props
+I:\közösprojekt\TEST\Auth\Auth\obj\Debug\net8.0\staticwebassets.pack.json
+I:\közösprojekt\TEST\Auth\Auth\obj\Debug\net8.0\scopedcss\bundle\Auth.styles.css
+I:\közösprojekt\TEST\Auth\Auth\obj\Debug\net8.0\Auth.csproj.Up2Date
+I:\közösprojekt\TEST\Auth\Auth\obj\Debug\net8.0\Auth.dll
+I:\közösprojekt\TEST\Auth\Auth\obj\Debug\net8.0\refint\Auth.dll
+I:\közösprojekt\TEST\Auth\Auth\obj\Debug\net8.0\Auth.pdb
+I:\közösprojekt\TEST\Auth\Auth\obj\Debug\net8.0\Auth.genruntimeconfig.cache
+I:\közösprojekt\TEST\Auth\Auth\obj\Debug\net8.0\ref\Auth.dll
